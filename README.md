@@ -37,23 +37,6 @@
 - **S11 (Profiles):**  
   **Cluster** → Columns • `AVG(Profit)` (and/or `AVG(Sales)`) → Rows • Marks = Bar • Labels on.
 
-## 🖼️ Screenshot naming
-Main figures → `/figures/`:
-- `Fig2_4_sales_trend_line.png`  
-- `Fig2_5_sales_by_category_bar.png`  
-- `Fig2_6_profit_histogram.png`  
-- `Fig2_7_sales_map.png`  
-- `Fig3_1_dualaxis_sales_profit.png` … `Fig3_4a_filters_demo_stateB.png`  
-- `Fig4_1_discount_profit_scatter.png`, `Fig4_1a_trendline_summary_inset.png`  
-- `Fig4_2_customer_clusters_scatter.png`, `Fig4_3_cluster_profiles_bars.png`  
-- `Fig5_1_dashboard_operational_full.png`, `Fig5_2_dashboard_analytical_full.png`  
-- `Fig5_3_story_point1_overview.png` … `Fig5_6_story_point4_recommendation.png`
-
-Appendix evidence → `/appendix/`:
-- `FigA_5_tableau_data_source_full.png`, `FigA_6_use_extract_menu.png`  
-- `FigB_1_steps_S01_fullscreen.png` … `FigB_11_steps_S11_fullscreen.png`  
-- `FigC_1_trendline_options_summary.png`, `FigC_2_clustering_options.png`, `FigC_3_parameter_properties.png`, `FigC_4_filter_settings.png`
-
 ## 🧠 Notes
 - **Dataset:** Tableau **Sample – Superstore** (bundled).  
 - **Extract:** workbook saved as `.twbx` with a `.hyper` extract for reproducibility.  
